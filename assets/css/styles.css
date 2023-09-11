@@ -233,7 +233,7 @@ body.dark-theme {
   overflow: hidden; /* For animation ScrollReveal */
 }
 
-/*=============== HEADER & NAV ===============*/
+/* Header/Nav */
 .header {
   position: fixed;
   width: 100%;
@@ -382,7 +382,7 @@ body.dark-theme {
 
 /* Active link */
 
-/*=============== HOME ===============*/
+/* Hero Section */
 .home__container {
   padding-top: 2rem;
 }
@@ -529,7 +529,7 @@ body.dark-theme {
   }
 }
 
-/*=============== BUTTON ===============*/
+/* Button */
 .button,
 .button__ghost {
   display: flex;
@@ -570,7 +570,7 @@ body.dark-theme {
   border: 3px solid var(--first-color);
 }
 
-/*=============== ABOUT ===============*/
+/* About Section */
 .about {
   background-color: var(--container-color);
   transition: background-color 0.4s;
@@ -1063,7 +1063,7 @@ body.dark-theme {
   background-color: hsl(0, 0%, 45%);
 }
 
-/*=============== BREAKPOINTS ===============*/
+/* Breakpoints */
 /* For small devices */
 @media screen and (max-width: 340px) {
   .container{
